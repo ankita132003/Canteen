@@ -5,7 +5,7 @@ import RNPickerSelect from "react-native-picker-select";
 import { supabase } from "../../initSupabase";
 
 
-const PlaceholderImage = require("../../assets/canteen.png");
+const PlaceholderImage = require("../../assets/canteen.jpg");
 const Signup = ({ navigation }) => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");

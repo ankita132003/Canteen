@@ -4,7 +4,7 @@ import { Button, Input } from "react-native-elements";
 import { supabase } from "../../initSupabase";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
-const PlaceholderImage = require("../../assets/canteen.png");
+const PlaceholderImage = require("../../assets/canteen.jpg");
 
 
 
